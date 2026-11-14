@@ -1,0 +1,6 @@
+{
+  "name": "Gestion Magasin",
+  "description": "Application Android hors ligne de gestion de magasin : catalogue produits, suivi des stocks par mouvements, caisse et ventes en FCFA XAF, historique, rapports, export CSV et sauvegardes locales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
